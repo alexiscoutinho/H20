@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	addonSteamAppID		550
+	addontitle		"Hard 20"
+	addonversion		1.0
+	addontagline		"Hard 20"
+	addonauthor		"www"
+	addonSteamGroupName	""
+	addonauthorSteamID	""
+	addonURL0		""
+	addonDescription	"No description necessary"
+	addonContent_Script 1
+}

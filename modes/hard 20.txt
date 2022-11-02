@@ -1,0 +1,16 @@
+"hard 20"
+{
+	"base"		"coop"
+	"maxplayers"    "4"
+        "hasdifficulty"		"1"
+
+	"DisplayTitle"	"Hard 20"
+	"ShortDescription"	"Fighting against the S.I parade, things get hardcore"
+	"Description"	"Tired of normal hard eight because it wasn't enough? Then try out this new try hard mode. Unlike the "Raining Special" Valve may recall, this time all 20 special infected will appear at the same time. Do you think you're good enough to defeat them by your bare hand?"
+
+	"Image"		"maps/any"
+	"Author"	"William Wilhelmsson"
+         
+        
+}
+
