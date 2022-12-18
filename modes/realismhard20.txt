@@ -1,0 +1,13 @@
+realismhard20
+{
+	base		realism
+	maxplayers	4
+
+	hasdifficulty	1
+
+	DisplayTitle		"Realism Hard 20"
+	ShortDescription	"Clashing against the real S.I. parade, things get brutal."
+	Description			"Tired of realism hard eight because it wasn't enough? Then try out this new super try-hard mode."
+	Author				"William Wilhelmsson and Jack Bauer ︻デ▬——"
+	Image				vgui/hard20
+}
