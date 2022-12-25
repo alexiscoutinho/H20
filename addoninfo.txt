@@ -2,14 +2,14 @@ AddonInfo
 {
 	addonSteamAppID		550
 	addonTitle			"Hard 20"
-	addonVersion		2.0
+	addonVersion		2.1
 	addonAuthor			"William Wilhelmsson and Jack Bauer ︻デ▬——"
 	addonAuthorSteamID	76561198833563777
 	addonURL0			https://steamcommunity.com/sharedfiles/filedetails/2682102793
 	addonContent_Script	1
 	addonDescription	"Hard 20 with Realism (optional).
 
-The internal mode names for use in the console are hard20 and realismhard20.
+These mutations require Metamod:Source + L4DToolZ (or equivalent) to function properly.
 
 In this mod, all 20 special infected with random type will appear at the same time and choke you to death. Will you send them all back to hell? Or be their Christmas dinner?
 

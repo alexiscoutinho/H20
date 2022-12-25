@@ -7,7 +7,9 @@ realismhard20
 
 	DisplayTitle		"Realism Hard 20"
 	ShortDescription	"Clashing against the real S.I. parade, things get brutal."
-	Description			"Tired of realism hard eight because it wasn't enough? Then try out this new super try-hard mode."
+	Description			"Tired of realism hard eight because it wasn't enough? Then try out this new super try-hard mode.
+
+The internal mode name for use in the console is realismhard20."
 	Author				"William Wilhelmsson and Jack Bauer ︻デ▬——"
 	Image				vgui/hard20
 }
