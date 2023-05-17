@@ -10,6 +10,6 @@ realismhard20
 	Description			"Tired of realism hard eight because it wasn't enough? Then try out this new super try-hard mode.
 
 The internal mode name for use in the console is realismhard20."
-	Author				"William Wilhelmsson and Jack Bauer ︻デ▬——"
+	Author				"Fluffy Cotton Candy and Jack Bauer ︻デ▬——"
 	Image				vgui/hard20
 }

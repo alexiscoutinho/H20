@@ -10,6 +10,6 @@ hard20
 	Description			"Tired of normal hard eight because it wasn't enough? Then try out this new try-hard mode. Unlike the 'Raining Special' Valve may recall, this time all 20 special infected will appear at the same time. Do you think you're good enough to defeat them by your bare hands?
 
 The internal mode name for use in the console is hard20."
-	Author				"William Wilhelmsson and Jack Bauer ︻デ▬——"
+	Author				"Fluffy Cotton Candy and Jack Bauer ︻デ▬——"
 	Image				vgui/hard20
 }
